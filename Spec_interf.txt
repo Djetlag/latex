@@ -1,0 +1,31 @@
+1) Interface web
+
+Toutes les images présente dans ce paragraphe sont à titre schématique, l'esthétique final peut évoluer. L'en-tête sera la même pour toutes les pages, un logo de l'ESAIP, un bandeau "Annuaire" et des onglets L'en-tête sera la même pour toutes les pages, un logo de l'ESAIP, un bandeau "Annuaire" et des onglets (Accueil, Contact, Mentions légales).A.
+L'onglet Accueil permettra un retour à la page principale, Contact renvoie sur la page de contact et Mentions légales renvoie sur la page éponymes.
+
+(page d'accueil)
+
+Dans un souci de rapidité de réponse pour l'utilisateur, la page d'Accueil ne supporte que quelques éléments : l'en-tête, un bandeau de recherche, un bouton et la liste des personnes correspondant à la recherche.
+Le bandeau de recherche intégrera une fonction d'auto-complétion/proposition dès 3 caractères tapés, correspondant à toutes informations d'une personne : si l'utilisateur tape "jou" l'étudiant Jourdois Alexandre peut être proposé directement.
+Le bouton "Chercher" lance la recherche dans la base de données. Enfin, une liste de personne découle de la recherche, avec quelques informations. Si l'utilisateur clique sur une identité, la page du contact s'affiche.
+
+(page contact)
+
+La page contact renvoie une fiche d'identité du contact sélectionné précédemment. Informations affichées : nom, prénom, e-mail, poste/filière, bureau.
+
+(page Contacter)
+
+La page Contacter renvoie un formulaire de contact pour l'utilisateur, afin de contacter le service d'administration pour une question ou un problème. L'utilisateur doit finir son nom et prénom, son e-mail et le message à envoyer. Un bouton "Envoyer" permet l'envoi du message une fois les champs complétés.
+
+(pages Mentions légales)
+
+La page Mentions Légales pose le cadre de cette application web et son fonctionnement, ainsi que les auteurs de cette application.
+
+
+2) Architecture du site
+
+(image architecture)
+
+3) Contraintes d'utilisation de l'interface
+
+L'utilisations du serveur fournit suite au challenge du design4green, nous limites sur le nombre de requete que le site peut recevoir par l'utlisateur. Une connexion simultanée de tous les utilisateurs est fortement déconseillée.

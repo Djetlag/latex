@@ -1,0 +1,13 @@
+\select@language {french}
+\contentsline {chapter}{\numberline {1}Rappels sur le projet}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Diagramme de Gantt}{3}{section.1.1}
+\contentsline {chapter}{\numberline {2}Fonctions d\IeC {\'e}taill\IeC {\'e}es}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Fonctions principales}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}Fonctions secondaires}{5}{section.2.2}
+\contentsline {chapter}{\numberline {3}Diagrammes UML}{6}{chapter.3}
+\contentsline {section}{\numberline {3.1}Diagrammes des cas d'utilisations}{6}{section.3.1}
+\contentsline {section}{\numberline {3.2}Diagrammes des classes}{7}{section.3.2}
+\contentsline {section}{\numberline {3.3}Diagrammes de s\IeC {\'e}quences}{8}{section.3.3}
+\contentsline {chapter}{\numberline {4}Interfaces HTML/CSS}{9}{chapter.4}
+\contentsline {section}{\numberline {4.1}GreenIT}{9}{section.4.1}
+\contentsline {section}{\numberline {4.2}Exp\IeC {\'e}rience utilisateur}{9}{section.4.2}

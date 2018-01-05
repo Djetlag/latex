@@ -1,0 +1,17 @@
+\BOOKMARK [0][-]{chapter.1}{Rappels sur le projet}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Sp\351cifications fonctionnelles}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Objectifs}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{Acteurs}{chapter.2}% 4
+\BOOKMARK [1][-]{section.2.3}{Fonctionnalit\351s}{chapter.2}% 5
+\BOOKMARK [0][-]{chapter.3}{Sp\351cifications g\351n\351rales}{}% 6
+\BOOKMARK [1][-]{section.3.1}{Pr\351sentation de l'application web}{chapter.3}% 7
+\BOOKMARK [2][-]{subsection.3.1.1}{Environnement de l'application web}{section.3.1}% 8
+\BOOKMARK [2][-]{subsection.3.1.2}{Description de l'application web}{section.3.1}% 9
+\BOOKMARK [1][-]{section.3.2}{Contraintes de r\351alisation}{chapter.3}% 10
+\BOOKMARK [2][-]{subsection.3.2.1}{Contraintes d'\351volution}{section.3.2}% 11
+\BOOKMARK [2][-]{subsection.3.2.2}{Contraintes de d\351veloppement}{section.3.2}% 12
+\BOOKMARK [2][-]{subsection.3.2.3}{Contraintes de qualit\351}{section.3.2}% 13
+\BOOKMARK [0][-]{chapter.4}{Sp\351cifications d'interface}{}% 14
+\BOOKMARK [1][-]{section.4.1}{Interface web}{chapter.4}% 15
+\BOOKMARK [2][-]{subsection.4.1.1}{Architecture du site}{section.4.1}% 16
+\BOOKMARK [2][-]{subsection.4.1.2}{Contraintes d'utilisation de l'interface}{section.4.1}% 17
